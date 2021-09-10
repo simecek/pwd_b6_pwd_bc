@@ -1,2 +1,3 @@
-# pwd_b6_pwd_bc
-(PWD x B6) x PWD BC1
+# (PWD x B6) x PWD BC1
+
+This analysis mirrors https://github.com/simecek/pwd_cast_b6_tc for (PWD x B6) x PWD backcross.
